@@ -153,7 +153,7 @@
       <img
         src="./assets/programmer-3.jpg"
         width="500"
-        height="200"
+        height="180"
         alt="Programmer"
       />
     </td>

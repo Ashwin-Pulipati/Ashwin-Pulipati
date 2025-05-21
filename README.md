@@ -157,7 +157,7 @@
 ###
 
 <div align="left">
-  <img height="200" src="./assets/programmer-3.png"  />
+  <img height="200" src="./assets/programmer-3.jpg"  />
 </div>
 
 ###

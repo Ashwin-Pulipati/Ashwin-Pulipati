@@ -7,7 +7,7 @@
 ###
 
 <div align="center">
-  <img height="150" src="./assets//banner-1.gif"  />
+  <img width="100%" height="150" src="./assets//banner-1.gif"  />
 </div>
 
 ###
@@ -38,7 +38,7 @@
 
 ###
 
-<img align="right" width="100%" height="300" src="./assets//NUX_Octodex.gif"  />
+<img align="right" height="300" src="./assets//NUX_Octodex.gif"  />
 
 ###
 

@@ -7,7 +7,7 @@
 ###
 
 <div align="center">
-  <img height="150" src="https://tenor.com/view/welcome-gif-24965365"  />
+  <img height="150" src="./assets//banner-1.gif"  />
 </div>
 
 ###
@@ -38,7 +38,7 @@
 
 ###
 
-<img align="right" height="300" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="300" src="./assets//NUX_Octodex.gif"  />
 
 ###
 

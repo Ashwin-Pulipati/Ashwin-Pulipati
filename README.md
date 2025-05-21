@@ -156,6 +156,12 @@
 
 ###
 
+<div align="left">
+  <img height="200" src="./assets/programmer-3.png"  />
+</div>
+
+###
+
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Ashwin-Pulipati.Ashwin-Pulipati&left_color=salmon&right_color=red&left_text=Visitors"  />
 </div>

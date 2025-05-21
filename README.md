@@ -147,9 +147,10 @@
 
 ###
 
-<table width="100%">
+<table width="100%" style="border: none; border-collapse: collapse; margin: 0; padding: 0;">
   <tr>
-    <td align="left" valign="top">
+    <!-- Left cell: centered both ways -->
+    <td align="center" valign="middle" style="border: none; padding: 0;">
       <img
         src="./assets/programmer-3.jpg"
         width="500"
@@ -157,8 +158,8 @@
         alt="Programmer"
       />
     </td>
-    <td align="center" valign="middle">
-      <div style="display: inline-block; text-align: center; border: none;">
+    <td align="center" valign="middle" style="border: none; padding: 0;">
+      <div style="display: inline-block; text-align: center;">
         <picture>
           <source
             media="(prefers-color-scheme: dark)"
@@ -184,5 +185,6 @@
     </td>
   </tr>
 </table>
+
 
 ###

@@ -156,7 +156,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ashwin-Pulipati/Ashwin-Pulipati/main/output/pacman.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ashwin-Pulipati/Ashwin-Pulipati/main/output/pacman.svg">
-  <img width='50%' alt="Pacman contribution graph" src="https://raw.githubusercontent.com/Ashwin-Pulipati/Ashwin-Pulipati/main/output/pacman.svg">
+  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/Ashwin-Pulipati/Ashwin-Pulipati/main/output/pacman.svg">
 </picture>
 
 

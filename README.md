@@ -1,4 +1,4 @@
-<h1 align="left">Full Stack Software Engineer</h1>
+<h1 align="center">Full Stack Software Engineer</h1>
 
 ###
 
@@ -9,6 +9,29 @@
 <div align="center">
   <img width="100%" height="500" src="./assets/programmer-9.gif"  />
 </div>
+
+<script>
+  const gifs = [
+    "./assets/programmer-9.gif",
+    ".//assets/programmer-3.jpg",
+    "./assets/programmer-3.jpg",
+    "./assets/programmer-6.webp"
+  ];
+
+  const gifElement = document.getElementById("randomGif");
+
+  function getRandomGif(currentSrc) {
+    let newGif;
+    do {
+      newGif = gifs[Math.floor(Math.random() * gifs.length)];
+    } while (newGif === currentSrc);
+    return newGif;
+  }
+
+  setInterval(() => {
+    gifElement.src = getRandomGif(gifElement.src);
+  }, 30000);
+</script>
 
 ###
 

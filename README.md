@@ -147,23 +147,42 @@
 
 ###
 
-<div align="left">
-  <img height="200" src="./assets/programmer-3.jpg"  />
-</div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ashwin-Pulipati/Ashwin-Pulipati/main/output/pacman.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ashwin-Pulipati/Ashwin-Pulipati/main/output/pacman.svg">
-  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/Ashwin-Pulipati/Ashwin-Pulipati/main/output/pacman.svg">
-</picture>
-
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Ashwin-Pulipati.Ashwin-Pulipati&left_color=salmon&right_color=red&left_text=Visitors"  />
-</div>
+<table width="100%">
+  <tr>
+    <td align="left" valign="top">
+      <img
+        src="./assets/programmer-3.jpg"
+        width="500"
+        height="200"
+        alt="Programmer"
+      />
+    </td>
+    <td align="center" valign="middle">
+      <div style="display: inline-block; text-align: center; border: none;">
+        <picture>
+          <source
+            media="(prefers-color-scheme: dark)"
+            srcset="https://raw.githubusercontent.com/Ashwin-Pulipati/Ashwin-Pulipati/main/output/pacman.svg"
+          >
+          <source
+            media="(prefers-color-scheme: light)"
+            srcset="https://raw.githubusercontent.com/Ashwin-Pulipati/Ashwin-Pulipati/main/output/pacman.svg"
+          >
+          <img
+            src="https://raw.githubusercontent.com/Ashwin-Pulipati/Ashwin-Pulipati/main/output/pacman.svg"
+            alt="Pacman contribution graph"
+            height="120"
+          />
+        </picture>
+        <div style="height: 50px;"></div>
+        <img
+          src="https://visitor-badge.laobi.icu/badge?page_id=Ashwin-Pulipati.Ashwin-Pulipati&left_color=salmon&right_color=red&left_text=Visitors"
+          alt="Visitors badge"
+          height="30"
+        />
+      </div>
+    </td>
+  </tr>
+</table>
 
 ###

@@ -171,7 +171,7 @@
           <img
             src="https://raw.githubusercontent.com/Ashwin-Pulipati/Ashwin-Pulipati/main/output/pacman.svg"
             alt="Pacman contribution graph"
-            height="120"
+            height="100"
           />
         </picture>
         <div style="height: 50px;"></div>

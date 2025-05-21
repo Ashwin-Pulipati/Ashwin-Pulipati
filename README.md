@@ -7,7 +7,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="./assets/programmer-3.jpg"  />
+  <img height="200" src="./assets/programmer-9.gif"  />
 </div>
 
 ###

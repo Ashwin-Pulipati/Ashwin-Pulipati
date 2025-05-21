@@ -38,7 +38,7 @@
 
 ###
 
-<img align="right" height="300" src="./assets//NUX_Octodex.gif"  />
+<img align="right" width="100%" height="300" src="./assets//NUX_Octodex.gif"  />
 
 ###
 

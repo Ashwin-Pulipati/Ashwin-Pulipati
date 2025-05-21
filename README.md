@@ -9,7 +9,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="./assets/programmer-9.gif"  />
+  <img height="200" src="./assets/programmer-2.gif"  />
 </div>
 
 ###
@@ -157,7 +157,7 @@
   <tr>
     <td align="center" valign="middle" style="border: none; padding: 0;">
       <img
-        src="./assets/programmer-3.jpg"
+        src="./assets/programmer-1.jpg"
         width="500"
         height="180"
         alt="Programmer"

@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">🔰 Summoned as the Full-Stack Shield Hero | 🎨 UI Master, 🐛 Bug Slayer, and 🤖 Wielder of AI Breathing Styles</h2>
+<h4 align="center">🔰 Summoned as the Full-Stack Shield Hero | 🎨 UI Master, 🐛 Bug Slayer, and 🤖 Wielder of AI Breathing Styles</h2>
 
 ###
 
@@ -172,7 +172,7 @@
           <img
             src="https://raw.githubusercontent.com/Ashwin-Pulipati/Ashwin-Pulipati/main/output/pacman.svg"
             alt="Pacman contribution graph"
-            height="90"
+            height="95"
           />
         </picture>
         <div style="height: 50px;"></div>

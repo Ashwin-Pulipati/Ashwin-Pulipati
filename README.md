@@ -4,7 +4,7 @@
 
 ###
 
-<h4 align="center">🔰 Summoned as the Full-Stack Shield Hero | 🎨 UI Master, 🐛 Bug Slayer, and 🤖 Wielder of AI Breathing Styles</h2>
+<h4 align="center">🔰 Summoned as the Full-Stack Shield Hero | 🎨 UI Master, 🐛 Bug Slayer, and 🤖 Wielder of AI Breathing Styles</h4>
 
 ###
 
@@ -187,7 +187,11 @@
           src="https://visitor-badge.laobi.icu/badge?page_id=Ashwin-Pulipati.Ashwin-Pulipati&left_color=salmon&right_color=red&left_text=Visitors"
           alt="Visitors badge"
           height="30"
+          align="left"
         />
+        <div align="right">
+          <img src="https://page-speed.dev/badge/ashwin-pulipati.github.io?style=flat-square" alt="Core Web Vitals" height="25">
+        </div>
       </div>
     </td>
   </tr>

@@ -40,7 +40,7 @@
 
 ###
 
-<img align="right" height="300" src="./assets/NUX_Octodex.gif"  />
+<img align="right" height="300" src="./assets/octacat.gif"  />
 
 ###
 

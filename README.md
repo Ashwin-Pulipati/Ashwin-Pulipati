@@ -190,7 +190,7 @@
           align="left"
         />
         <div align="right">
-          <img src="https://page-speed.dev/badge/ashwin-pulipati.github.io?style=flat-square" alt="Core Web Vitals" height="25">
+          <img src="https://page-speed.dev/badge/ashwin-pulipati.github.io?style=flat-square" alt="Core Web Vitals" height="20">
         </div>
       </div>
     </td>

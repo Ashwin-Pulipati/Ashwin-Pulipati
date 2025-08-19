@@ -48,6 +48,8 @@
   <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=redux" height="40" alt="redux logo"  />
+  <img width="12"/>
+  <img src="https://avatars.githubusercontent.com/u/139895814?v=4" height="40" alt="shadcn logo" />
 </div>
 
 ###
